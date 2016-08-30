@@ -1,6 +1,6 @@
 import _ from 'lodash'
 
-export function normalizeAdvertiserData(advertisers) {
+export function normalizeAdvertiserData(advertisers, affiliateId) {
 	let merchants = advertisers.rows[0].row
 
 	merchants = merchants.map(({ programname, programid, programtariffamount, programtariffcurrency, programtariffpercentage, event }) => ({
@@ -15,6 +15,7 @@ export function normalizeAdvertiserData(advertisers) {
 	let merchantsOutput = _.uniq(merchants.map(merchant => merchant.programId)).map(id => ({
 		name: merchants.filter(merchant => merchant.programId === id)[0].programName,
 		id,
+		linkUrl: `http://clkuk.tradedoubler.com/click?p(${id})a(${affiliateId})`,
 		commissions: merchants.filter(merchant => merchant.programId === id).map(({ programTariffAmount, programTariffCurrency, programTariffPercentage, event }) => ({
 			event,
 			programTariffAmount: +programTariffAmount,

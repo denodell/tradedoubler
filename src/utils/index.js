@@ -7,7 +7,7 @@ export function requestAdvertisers({ affiliateId, reportKey }) {
 	return new Promise(async function(resolve, reject) {
 		try {
 			let advertisers = await requestData(url)
-			resolve(normalizeAdvertiserData(advertisers))
+			resolve(normalizeAdvertiserData(advertisers, affiliateId))
 		} catch (err) {
 			reject(err)
 		}

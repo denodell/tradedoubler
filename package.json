@@ -1,6 +1,6 @@
 {
   "name": "tradedoubler",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Tradedoubler API Helper Methods For Node / JavaScript",
   "author": {
     "name": "Den Odell",
