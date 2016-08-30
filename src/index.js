@@ -1,7 +1,6 @@
 import 'babel-polyfill'
 import 'source-map-support/register'
-import { requestAdvertisers, requestLinks, requestVouchers, requestProducts, requestTransactions } from './utils'
-//import dateFormat from 'dateformat'
+import { requestAdvertisers, requestVouchers } from './utils'
 
 const defaultOptions = {
 	affiliateId: '',
@@ -20,24 +19,5 @@ export default class Tradedoubler {
 
 	getVouchers({ reportKey, affiliateId, vouchersToken } = this.options) {
 		return requestVouchers({ reportKey, affiliateId, vouchersToken })
-	}
-
-	getTransactions() {
-		const { apiKey, affiliateId } = this.options
-
-		return requestTransactions({
-			apiKey,
-			affiliateId,
-		})
-	}
-
-  // TODO
-	getProducts() {
-
-	}
-
-  // TODO
-	searchProducts() {
-
 	}
 }
