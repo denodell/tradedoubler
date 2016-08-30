@@ -25,7 +25,7 @@ describe(`Tradedoubler`, it => {
 		})
 	})
 
-	it.only(`Vouchers`, expect => {
+	it(`Vouchers`, expect => {
 		const advertisersXml = fs.readFileSync('mock-data/advertisers.xml', 'utf-8')
 		const vouchersJson = JSON.parse(fs.readFileSync('mock-data/vouchers.json', 'utf-8'))
 		sinon.stub(fetchLib, 'fetchXml').returns(Promise.resolve(advertisersXml))

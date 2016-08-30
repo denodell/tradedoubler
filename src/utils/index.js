@@ -19,7 +19,7 @@ export function requestVouchers({ affiliateId, reportKey, vouchersToken }) {
 		try {
 			let advertisers = await requestAdvertisers({ affiliateId, reportKey })
 			const advertiserIds = advertisers.map(({ id }) => `programId=${id}`).join(';')
-			const url = `https://api.tradedoubler.com/1.0/vouchers.json;voucherTypeId=1;${advertiserIds}?token=${vouchersToken}`
+			const url = `https://api.tradedoubler.com/1.0/vouchers.json;dateOutputFormat=iso8601;voucherTypeId=1;${advertiserIds}?token=${vouchersToken}`
 			let vouchers = await requestJsonData(url)
 			resolve(vouchers)
 		} catch (err) {
