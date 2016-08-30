@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report title="My Programs" name="aAffiliateMyProgramsReport" time="2016-08-30 13:08">
+	<matrix rowcount="1">
+		<rows>
+		</rows>
+	</matrix>
+	<matrix rowcount="50">
+		<columns>
+			<siteName type="string">Site name</siteName>
+			<programName type="string">Program Name</programName>
+			<currentStatusExcel type="string">Program Prepayment Status</currentStatusExcel>
+			<programId type="integer">Program ID</programId>
+			<programTariffAmount type="decimal">Program tariff Amount</programTariffAmount>
+			<programTariffCurrency type="string">Program tariff Currency</programTariffCurrency>
+			<programTariffPercentage type="percentage">Program tariff %</programTariffPercentage>
+			<event type="string">Event Name</event>
+		</columns>
+		<rows>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Amoma UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>245004</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Amoma UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>245004</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Amoma UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>245004</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Amoma UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>245004</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>8.0</programTariffPercentage>
+				<event>Amoma_booking</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Amoma UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>245004</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Adjustment</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Amoma UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>245004</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Adjustment</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Columbus Direct Travel Insurance</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>18211</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage></programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Columbus Direct Travel Insurance</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>18211</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Columbus Direct Travel Insurance</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>18211</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Columbus Direct Travel Insurance</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>18211</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>17.0</programTariffPercentage>
+				<event>Polizza viaggio singolo</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Columbus Direct Travel Insurance</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>18211</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Adjustment</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Columbus Direct Travel Insurance</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>18211</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>17.0</programTariffPercentage>
+				<event>Polizza annuale multiviaggio</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Disney Store</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>189903</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Disney Store</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>189903</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Disney Store</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>189903</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Disney Store</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>189903</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Adjustment</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Disney Store</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>189903</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>4.0</programTariffPercentage>
+				<event>Disney Store Sale</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Disney Store</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>189903</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>4.0</programTariffPercentage>
+				<event>In-Store Sale</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Durex UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>256170</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Durex UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>256170</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Durex UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>256170</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Durex UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>256170</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>10.0</programTariffPercentage>
+				<event>durex.sales</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Hertz UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>37051</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Hertz UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>37051</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Hertz UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>37051</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Hertz UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>37051</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>5.0</programTariffPercentage>
+				<event>Hertz Sale</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Hertz UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>37051</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Adjustment</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Hertz UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>37051</programId>
+				<programTariffAmount>3.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Hertz Non Prepaid</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Lindybop</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>270613</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Lindybop</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>270613</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Lindybop</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>270613</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Lindybop</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>270613</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>4.0</programTariffPercentage>
+				<event>Lindibop sale</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Virgin Atlantic</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>207523</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Virgin Atlantic</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>207523</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Virgin Atlantic</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>207523</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Virgin Atlantic</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>207523</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Adjustment</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Virgin Atlantic</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>207523</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>1.0</programTariffPercentage>
+				<event>Special commission for certain routes of 0.5%</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>Virgin Atlantic</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>207523</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>2.0</programTariffPercentage>
+				<event>Standard commission of 2%</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Unique visitor</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Click</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>0.0</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>100.0</programTariffPercentage>
+				<event>Transaction Inquiry</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>2.4</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>iPremium Turbo Month</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>2.4</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Premium Turbo Month</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>24.6</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>iPremium Turbo Year</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>24.6</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Premium Turbo Year</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>3.04</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>iPremium Business Month</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>3.04</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Premium Business Month</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>27.6</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>iPremium Business Year</event>
+			</row>
+			<row>
+				<siteName>One Digital Club</siteName>
+				<programName>WeSendit UK</programName>
+				<currentStatusExcel>Ok</currentStatusExcel>
+				<programId>272748</programId>
+				<programTariffAmount>27.6</programTariffAmount>
+				<programTariffCurrency>GBP</programTariffCurrency>
+				<programTariffPercentage>0.0</programTariffPercentage>
+				<event>Premium Business Year</event>
+			</row>
+		</rows>
+	</matrix>
+</report>

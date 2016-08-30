@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Amoma UK",
+    "id": "245004",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Amoma_booking",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 8
+      },
+      {
+        "event": "Transaction Adjustment",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Transaction Adjustment",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      }
+    ]
+  },
+  {
+    "name": "Columbus Direct Travel Insurance",
+    "id": "18211",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Polizza viaggio singolo",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 17
+      },
+      {
+        "event": "Transaction Adjustment",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Polizza annuale multiviaggio",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 17
+      }
+    ]
+  },
+  {
+    "name": "Disney Store",
+    "id": "189903",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Transaction Adjustment",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Disney Store Sale",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 4
+      },
+      {
+        "event": "In-Store Sale",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 4
+      }
+    ]
+  },
+  {
+    "name": "Durex UK",
+    "id": "256170",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "durex.sales",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 10
+      }
+    ]
+  },
+  {
+    "name": "Hertz UK",
+    "id": "37051",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Hertz Sale",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 5
+      },
+      {
+        "event": "Transaction Adjustment",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Hertz Non Prepaid",
+        "programTariffAmount": 3,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      }
+    ]
+  },
+  {
+    "name": "Lindybop",
+    "id": "270613",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Lindibop sale",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 4
+      }
+    ]
+  },
+  {
+    "name": "Virgin Atlantic",
+    "id": "207523",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Transaction Adjustment",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "Special commission for certain routes of 0.5%",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 1
+      },
+      {
+        "event": "Standard commission of 2%",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 2
+      }
+    ]
+  },
+  {
+    "name": "WeSendit UK",
+    "id": "272748",
+    "commissions": [
+      {
+        "event": "Unique visitor",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Click",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Transaction Inquiry",
+        "programTariffAmount": 0,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 100
+      },
+      {
+        "event": "iPremium Turbo Month",
+        "programTariffAmount": 2.4,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Premium Turbo Month",
+        "programTariffAmount": 2.4,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "iPremium Turbo Year",
+        "programTariffAmount": 24.6,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Premium Turbo Year",
+        "programTariffAmount": 24.6,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "iPremium Business Month",
+        "programTariffAmount": 3.04,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Premium Business Month",
+        "programTariffAmount": 3.04,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "iPremium Business Year",
+        "programTariffAmount": 27.6,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      },
+      {
+        "event": "Premium Business Year",
+        "programTariffAmount": 27.6,
+        "programTariffCurrency": "GBP",
+        "programTariffPercentage": 0
+      }
+    ]
+  }
+]
