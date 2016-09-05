@@ -17,6 +17,11 @@ function xmlToJSON(xml) {
 				return
 			}
 
+			if (!json.hasOwnProperty('matrix')) {
+				reject(json)
+				return
+			}
+
 			resolve(json.matrix.pop())
 		})
 	})
