@@ -17,8 +17,8 @@ function xmlToJSON(xml) {
 				return
 			}
 
-			if (!json.hasOwnProperty('matrix')) {
-				reject(json)
+			if (!json && !json.matrix) {
+				reject(xml)
 				return
 			}
 
