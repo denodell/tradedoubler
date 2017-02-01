@@ -1,6 +1,6 @@
 {
   "name": "tradedoubler",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Tradedoubler API Helper Methods For Node / JavaScript",
   "author": {
     "name": "Den Odell",
@@ -31,7 +31,8 @@
     "failFast": true,
     "verbose": true,
     "require": [
-      "babel-core/register"
+      "babel-core/register",
+      "babel-polyfill"
     ]
   },
   "dependencies": {

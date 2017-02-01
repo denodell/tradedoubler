@@ -25,6 +25,16 @@ describe(`Tradedoubler`, it => {
 		})
 	})
 
+	it(`Transactions`, async expect => {
+		const transactionsXml = fs.readFileSync('mock-data/transactions.xml', 'utf-8')
+		sinon.stub(fetchLib, 'fetchXml').returns(Promise.resolve(transactionsXml))
+
+		const transactions = await TD.getTransactions()
+		expect.true(transactions.length > 0)
+
+		fetchLib.fetchXml.restore()
+	})
+
 	it(`Vouchers`, expect => {
 		const advertisersXml = fs.readFileSync('mock-data/advertisers.xml', 'utf-8')
 		const vouchersJson = JSON.parse(fs.readFileSync('mock-data/vouchers.json', 'utf-8'))

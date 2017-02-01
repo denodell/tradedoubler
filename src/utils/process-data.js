@@ -26,3 +26,21 @@ export function normalizeAdvertiserData(advertisers, affiliateId) {
 
 	return merchantsOutput
 }
+
+export function normalizeTransactionData(trans) {
+	let transactions = trans.rows[0].row
+
+	transactions = transactions.map(({ programid, timeofvisit, timeofevent, lastmodified, ordernr, epi1, pendingstatus, ordervalue, affiliatecommission }) => ({
+		programId: programid[0],
+		timeOfVisit: timeofvisit[0] ? new Date(timeofvisit[0]) : timeofvisit[0],
+		timeOfEvent: timeofevent[0] ? new Date(timeofevent[0]) : timeofevent[0],
+		lastModified: lastmodified[0] ? new Date(lastmodified[0].substr(0, lastmodified[0].lastIndexOf(' ') - 1)) : lastmodified[0],
+		orderNr: ordernr[0],
+		epi1: epi1[0],
+		status: pendingstatus[0],
+		orderValue: +ordervalue[0],
+		affiliateCommission: +affiliatecommission[0],
+	}))
+
+	return transactions
+}

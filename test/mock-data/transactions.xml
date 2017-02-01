@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report title="Event breakdown report" name="aAffiliateEventBreakdownReport" time="2017-02-01 12:44">
+	<matrix rowcount="2">
+		<columns>
+			<programName type="string">Program Name</programName>
+			<programId type="integer">Program ID</programId>
+			<timeOfVisit type="datetime">Time of visit</timeOfVisit>
+			<timeOfEvent type="datetime">Time of event</timeOfEvent>
+			<timeInSession type="string">Time In session</timeInSession>
+			<lastModified type="datetime">Time Last modified</lastModified>
+			<leadNR type="string">Lead nr</leadNR>
+			<orderNR type="string">Order nr</orderNR>
+			<epi1 type="string">EPI EPI 1</epi1>
+			<epi2 type="string">EPI EPI 2</epi2>
+			<eventName type="string">Event Name</eventName>
+			<eventId type="integer">Event ID</eventId>
+			<pendingStatus type="string">Event Status</pendingStatus>
+			<pendingReason type="string">Reason</pendingReason>
+			<siteName type="string">Site Name</siteName>
+			<siteId type="integer">Site ID</siteId>
+			<graphicalElementName type="string">Ad Name</graphicalElementName>
+			<graphicalElementId type="integer">Ad ID</graphicalElementId>
+			<productName type="string">Product info Name</productName>
+			<productNumber type="string">Product info ID</productNumber>
+			<productNrOf type="string">Product info #</productNrOf>
+			<productValue type="decimal">Product info Product Value</productValue>
+			<orderValue type="decimal">Order Value</orderValue>
+			<open_product_feeds_id type="string">Products Open API information Product ID</open_product_feeds_id>
+			<open_product_feeds_name type="string">Products Open API information Product name</open_product_feeds_name>
+			<voucher_code type="string">Vouchers Voucher code</voucher_code>
+			<affiliateCommission type="decimal">Commission Publisher</affiliateCommission>
+			<rewardPoints type="integer">Reward points</rewardPoints>
+			<validon type="date">Valid On</validon>
+			<pendingRule type="string">Pending Rule</pendingRule>
+			<cdt_validation_method_id type="decimal">Cross Device</cdt_validation_method_id>
+		</columns>
+		<rows>
+			<row>
+				<programName>Hertz UK</programName>
+				<programId>37051</programId>
+				<timeOfVisit>2016-09-04 20:23:55 UTC+0</timeOfVisit>
+				<timeOfEvent>2016-09-04 20:30:52 UTC+0</timeOfEvent>
+				<timeInSession>Y</timeInSession>
+				<lastModified>2016-11-03 20:31:01 CET</lastModified>
+				<leadNR></leadNR>
+				<orderNR>H04900552F0GBP</orderNR>
+				<epi1>57b2ecd9429847110062cec8</epi1>
+				<epi2></epi2>
+				<eventName>Hertz Sale</eventName>
+				<eventId>40499</eventId>
+				<pendingStatus>A</pendingStatus>
+				<pendingReason>Accepted by autoapprove</pendingReason>
+				<siteName>One Digital Club</siteName>
+				<siteId>2873187</siteId>
+				<graphicalElementName>Custom graphical element</graphicalElementName>
+				<graphicalElementId>0</graphicalElementId>
+				<productName></productName>
+				<productNumber></productNumber>
+				<productNrOf></productNrOf>
+				<productValue></productValue>
+				<orderValue>188.79977</orderValue>
+				<open_product_feeds_id></open_product_feeds_id>
+				<open_product_feeds_name></open_product_feeds_name>
+				<voucher_code></voucher_code>
+				<affiliateCommission>9.43999</affiliateCommission>
+				<rewardPoints></rewardPoints>
+				<validon></validon>
+				<pendingRule></pendingRule>
+				<cdt_validation_method_id>No</cdt_validation_method_id>
+			</row>
+		</rows>
+	</matrix>
+</report>
